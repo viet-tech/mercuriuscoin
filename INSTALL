@@ -1,0 +1,9 @@
+Building Mercurius
+
+See doc/readme-qt.rst for instructions on building Mercurius QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Mercurius.
+
+See doc/build-*.txt for instructions on building Mercuriusd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Mercurius.
